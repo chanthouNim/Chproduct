@@ -3,4 +3,4 @@
 ###############
 
 
-This is chanthou nim repository that I create for testing only
+This is chanthou nim repository that I for typo3 extension
